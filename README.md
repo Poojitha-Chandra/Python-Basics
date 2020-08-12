@@ -1,4 +1,4 @@
-# hello-world
+# Python Basics
 My first repository
 
 Hi there!
